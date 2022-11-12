@@ -12,7 +12,7 @@ const AboutWork = () => {
           experienced and have wide knowledge on business as well as affiliate
           marketers. Through our various channels, we will help your business
           grow and connect you with the highest quality of traffic delivered.
-          Topclientoffer is always ready to share with you our last exclusive
+           is always ready to share with you our last exclusive
           offers. In fact, we are here for your business needs. We ensure your
           constant profit growth with us and help you to become a supper
           affiliate.We are glad to provide free training for affiliates and
