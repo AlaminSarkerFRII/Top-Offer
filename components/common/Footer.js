@@ -90,9 +90,9 @@ const Footer = () => {
           <h2>COMPANY</h2>
           <nav className="list-none mb-10">
             <li>
-              <a href="/about" className="">
+              <Link href="/about" className="">
                 About us
-              </a>
+              </Link>
             </li>
             <li>
               <a className="">Our partners</a>
@@ -101,9 +101,9 @@ const Footer = () => {
               <a className="">Contact us</a>
             </li>
             <li>
-              <a href="/privacy" className="">
+              <Link href="/privacy" className="">
                 Privacy Policy
-              </a>
+              </Link>
             </li>
           </nav>
         </div>

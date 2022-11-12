@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const privacy = () => {
@@ -8,32 +9,32 @@ const privacy = () => {
       </div>
       <div className="px-10 lg:px-20 py-12 text-justify">
         <p>
-          Tacterial Consulting Private Limited (hereinafter referred to as
-          Ditto) operates the website at{" "}
-          <a
+          Bacterial Consulting Private Limited hereinafter referred to as
+          Ditto operates the website at
+          <Link
             href="https://joinditto.in"
             target="_blank"
             rel="noopener noreferrer"
           >
             Site.
-          </a>
-          We respect the privacy of each user of the Site (referred to as “you”
-          or “a user”), whether its your first time, or if you’ve visited our
-          Site previously. This Privacy Statement gives you specific information
+          </Link>
+          We respect the privacy of each user of the Site referred to as “you”
+          or “a user whether its your first time, or if you visited our Site
+          previously. This Privacy Statement gives you specific information
           about how we protect your privacy, how we treat information we collect
-          on the Site that identifies an individual user (“Personal
-          Information”), and how we use aggregated information.
+          on the Site that identifies an individual user Personal Information
+          and how we use aggregated information.
         </p>
         <br />
         <p>
           By registering for or using the site, you signify your acceptance of
           this privacy statement. If you do not agree to this privacy statement,
           you cannot use the site. We reserve the right to modify this Statement
-          at any time by posting a notice on the Site’s home page. (If we
-          consider it appropriate, we may also provide additional notice of
-          significant changes.) Your use of the Site after the date of the last
-          modification listed at the beginning of this Privacy Statement
-          indicates to us that you agree to the changes.
+          at any time by posting a notice on the Sites home page. If we consider
+          it appropriate, we may also provide additional notice of significant
+          changes. Your use of the Site after the date of the last modification
+          listed at the beginning of this Privacy Statement indicates to us that
+          you agree to the changes.
         </p>
         <h3>Information Collection and Use</h3>
         <p>
@@ -41,20 +42,20 @@ const privacy = () => {
           to provide us with certain personally identifiable information,
           including but not limited to First Name, Last Name, Email/Phone
           number. The information that we request will be retained by us and
-          used as described in this privacy policy.{" "}
+          used as described in this privacy policy.
         </p>
         <p>
           When you use the Website, Apps, Newsletters and interact with our
           Services, we may use technology such as that provided by Google
           Analytics, Mailchimp etc to collect information about your visit to
           our Website and/or Newsletters. In essence, these tools enable us to
-          analyse how you and others interact with our Website, Apps and
+          analyses how you and others interact with our Website, Apps and
           Newsletters. The information we collect may include:
         </p>
         <p>
           the type of browser you use to access our website/newsletter; the
-          number of sessions per day; the type of device (e.g. iPhone) and
-          operating system (e.g. iOS) you are using; if you opened our
+          number of sessions per day; the type of device e.g. iPhone and
+          operating system e.g. iOS you are using; if you opened our
           newsletters; user preferences; and which pages you visited.
         </p>
         <h3>THIS IS WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU</h3>
@@ -72,7 +73,7 @@ const privacy = () => {
         <p>
           Cookies are files with a small amount of data that are commonly used
           as anonymous unique identifiers. These are sent to your browser from
-          the websites that you visit and are stored on your device's internal
+          the websites that you visit and are stored on your device internal
           memory.
         </p>
         <p>
