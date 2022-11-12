@@ -5,7 +5,7 @@ const Banner = () => {
   return (
     <div className="banner-container">
       <div>
-        <h1>TopClientOffer</h1>
+        <h1>Top Offer</h1>
         <p className="md:text-2xl lg:text-4xl xl:text-5xl">
           High Traffic Monetization CPA Network
         </p>

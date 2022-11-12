@@ -44,7 +44,7 @@ const WhatMakeUsDifferent = () => {
               50+ Countries To Make Money In.We Are Providing You More Than 50+
               Goes To Monetize Your Traffics.We Have Good Converting And Best
               Offer In The World.You Can Choose By Your Wish And Make Profit
-              With TopClientOffer.
+              With Top Offer.
             </p>
           </div>
         ))}
